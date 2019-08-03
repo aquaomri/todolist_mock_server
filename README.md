@@ -143,7 +143,7 @@ Sample response:
 ---
 #### Mark task incomplete
 Description: Mark an existing task as incomplete    
-Usage: POST /tasks/<task_id>/completed  
+Usage: POST /tasks/<task_id>/incomplete  
 Produces: application/json 
 
 ##### parameters
