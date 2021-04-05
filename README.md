@@ -35,7 +35,7 @@ C:\path\to\app>flask run
 #### Linux
 ```buildoutcfg
 export FLASK_APP=server.py
-flask run
+PYTHONPATH=. flask run
 ```
 
 
